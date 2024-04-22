@@ -46,7 +46,7 @@ var precacheConfig = [
   ["style.css", "265a2c3891fe945c12ce436f7fb85b5e"],
 ];
 var cacheName =
-  "sw-precache-v3-sw-precache-3" +
+  "sw-precache-v3-sw-precache-4" +
   (self.registration ? self.registration.scope : "");
 
 var ignoreUrlParametersMatching = [/^utm_/];
